@@ -1,1 +1,1 @@
-# kec-config-creator
+# kecm-config-creator
